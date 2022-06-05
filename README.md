@@ -1,2 +1,2 @@
 # LeetCode
-My solutions with JAVA
+My Practice solutions
