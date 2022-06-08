@@ -1,3 +1,4 @@
+//Solution One
 public int removeElement(int[] nums, int val) {
     int fast = 0;
     int slow = 0;
